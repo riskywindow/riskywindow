@@ -7,7 +7,7 @@ Some of my projects:
 [Vessel] — Container orchestrator in Go, built from scratch on Linux namespaces, cgroups v2, OverlayFS, and seccomp. 530+ tests, persistent volumes, and a custom scheduler.
 [Switchyard] - A backend-agnostic hybrid inference control plane that routes across local and remote model backends.
 [CyberSentinel] - End-to-end purple-team cyber-defense lab with multi-agent orchestration, telemetry ingest, RAG+graph reasoning, Sigma auto-generation, SOAR playbooks, red-team simulator, and replayable evaluation harness.
-[Nexus]— Userspace networking order matching engine in C++23. io_uring, lock-free concurrency, and sub-microsecond latency targets.
+[Nexus](https://github.com/riskywindow/Nexus)— Userspace networking order matching engine in C++23. io_uring, lock-free concurrency, and sub-microsecond latency targets.
 
 Contact
 [LinkedIn] · [Email] (rishivinodkumar@utexas.edu)
